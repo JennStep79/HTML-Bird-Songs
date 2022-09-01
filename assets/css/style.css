@@ -2,6 +2,7 @@ html,
 body {
     margin: 0;
     padding: 0;
+    background-color: aqua;
 }
 
 nav {
@@ -40,4 +41,8 @@ nav a:hover {
 
 main {
     margin: 0 10%;
+}
+
+#header {
+    text-align: center;
 }
